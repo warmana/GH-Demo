@@ -1,2 +1,3 @@
 Once upon a time is a bit of a silly way to start a story, but it seems to work.
+I'm sure the story could be more interesting, however.
 And this is the end of the file.
