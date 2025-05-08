@@ -1,1 +1,2 @@
-Once upon a time..
+Once upon a time is a bit of a silly way to start a story, but it seems to work.
+And this is the end of the file.
